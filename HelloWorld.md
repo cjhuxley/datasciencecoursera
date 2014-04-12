@@ -3,9 +3,9 @@
 ### Additional stuff : Some examples of markdown usage
 
 Here is a list:
-1. First list item
-2. Second list item
-3. Third list item
++ First list item
++ Second list item
++ Third list item
 
 Here is a block quote:
 > A block quote would be useful for highlighting key points of inserting quotations (or definitions perhaps).
